@@ -1,2 +1,3 @@
 This is my first git project
 Git is easier than I expected
+I am learning git.
